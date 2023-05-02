@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">BMI Calci</string>
+    <string name="hintWeight">Enter your weight</string>
+    <string name="hintHeightFt">Enter your height (Feet)</string>
+    <string name="hintHeightIn">Enter your height (Inch)</string>
+    <string name="buttonText">Calculate</string>
+    <string name="resultText">Result : </string>
+    <string name="textUW">You\'re Under Weight</string>
+    <string name="textOW">You\'re Over Weight</string>
+    <string name="textH">You\'re Healthy</string>
+
 </resources>
