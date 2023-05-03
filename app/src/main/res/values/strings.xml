@@ -8,5 +8,6 @@
     <string name="textUW">You\'re Under Weight</string>
     <string name="textOW">You\'re Over Weight</string>
     <string name="textH">You\'re Healthy</string>
+    <string name="string_textuw">\@string/textUW</string>
 
 </resources>
